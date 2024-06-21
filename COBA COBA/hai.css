@@ -1,0 +1,111 @@
+.berita {
+  display: flex;
+  background-color: #1098c6;
+  padding: 10px;
+  justify-content: center;
+}
+.berita-text {
+  font-family: tahoma;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.berita:hover {
+  background-color: #87c4d9;
+}
+
+.berita-1 {
+  display: flex;
+  background-color: #ff9d00;
+  justify-content: center;
+  margin-top: 15px;
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+/* KONTEN */
+.konten {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.konten-1 {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.nama-berita1 {
+  color: brown;
+}
+
+.tanggal-berita1 {
+  color: cadetblue;
+}
+
+.nama-satria {
+  color: blue;
+}
+
+.nama-berita2 {
+  color: red;
+}
+
+.tanggal-berita2 {
+  color: #87c4d9;
+}
+
+.konten-2 {
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.nama-asep {
+  color: blue;
+}
+
+/* HALAMAN UTAMA CONTAINER */
+.box-preview {
+  width: 300px;
+  margin: 20px;
+  background-color: antiquewhite;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap:wrap;
+}
+
+.credit-berita1{
+    margin-top:12px;
+}
+
+.credit-berita2{
+    margin-top:12px;
+}
+
+.box-preview:hover{
+    background-color:#87c4d9
+}
+.box-preview:hover{
+    background-color:#87c4d9
+}
+
+.credit-berita2{
+    font-style:italic;
+}
+
+.credit-berita1{
+    font-style:italic;
+}
+
+
+#box-preview-judul{
+    
+
+}
